@@ -11,7 +11,6 @@
   <img  src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"  />
   </a>
   <a href="https://germedina.dev">
-  <img  src="
-  	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  />
+  <img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  />
   </a>
 </p>
